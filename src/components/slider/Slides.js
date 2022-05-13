@@ -15,12 +15,6 @@ const slidesInfo = [
     desc: 'Gif Expert APP',
     href: 'https://paniser.github.io/react-gifexpertapp/',
   },
-  {
-    src: 'https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg',
-    alt: 'Project 3',
-    desc: 'Project 3',
-    href: 'https://paniser.github.io/react-gifexpertapp/',
-  },
 ];
 
 const slides = slidesInfo.map((slide) => (
