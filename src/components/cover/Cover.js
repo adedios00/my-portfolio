@@ -12,7 +12,9 @@ const Cover = () => {
         loop
         muted
       />
-      <h1>Antonio Francisco de Dios Moreno</h1>
+      <h1 className='animate__animated animate__rubberBand'>
+        Antonio Francisco de Dios Moreno
+      </h1>
       <p>React Front-end Developer</p>
     </div>
   );
