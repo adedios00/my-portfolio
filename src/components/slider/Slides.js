@@ -4,15 +4,15 @@ import React from 'react';
 
 const slidesInfo = [
   {
-    src: 'https://cdn.pixabay.com/photo/2016/05/30/14/23/detective-1424831_960_720.png',
+    src: 'https://cdn.pixabay.com/photo/2020/10/15/14/42/man-5656933_960_720.png',
     alt: 'Project 1',
-    desc: 'Gif Expert APP',
-    href: 'https://paniser.github.io/react-gifexpertapp/',
+    desc: 'Heroes APP',
+    href: 'https://paniser.github.io/marvel',
   },
   {
-    src: 'https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg',
+    src: 'https://cdn.pixabay.com/photo/2016/05/30/14/23/detective-1424831_960_720.png',
     alt: 'Project 2',
-    desc: 'GifExpertApp',
+    desc: 'Gif Expert APP',
     href: 'https://paniser.github.io/react-gifexpertapp/',
   },
   {
