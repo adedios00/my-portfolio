@@ -10,8 +10,15 @@ const slidesInfo = [
     href: 'https://paniser.github.io/hero-app',
   },
   {
-    src: 'https://cdn.pixabay.com/photo/2016/05/30/14/23/detective-1424831_960_720.png',
+    src: 'https://cdn.pixabay.com/photo/2020/06/28/10/02/clouds-5348740_1280.jpg',
     alt: 'Project 2',
+    desc: 'El tiempo',
+    href: 'https://paniser.github.io/el-tiempo/',
+  },
+
+  {
+    src: 'https://cdn.pixabay.com/photo/2016/05/30/14/23/detective-1424831_960_720.png',
+    alt: 'Project 3',
     desc: 'Gif Expert APP',
     href: 'https://paniser.github.io/react-gifexpertapp/',
   },
