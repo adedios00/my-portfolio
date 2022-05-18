@@ -8,8 +8,10 @@ const About = () => {
       <div className='about-desc'>
         <h3>Sobre mí</h3>
         <p>
-          Apasionado del desarrollo web y la tecnología en general. Desde
-          pequeño siempre he estado metido en el mundo de la informática.
+          Apasionado del desarrollo web y la tecnología en general. Empecé
+          realizando mis proyectos en Wordpress hace 10 años y después pasé a
+          estudiar programación. Me gusta realizar aplicaciones que sean útiles
+          para los demás.
         </p>
       </div>
       <div className='about-img'>
